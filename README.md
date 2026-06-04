@@ -1,4 +1,5 @@
-🚀 Machine Learning & Deep Learning Projects
+Machine Learning & Deep Learning Projects
+
 This repository showcases projects built using Machine Learning (ML) and Deep Learning (DL) techniques.
 
 ML provides the foundation for building models that learn patterns from data and make predictions.
