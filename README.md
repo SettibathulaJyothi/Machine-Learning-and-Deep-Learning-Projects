@@ -19,7 +19,7 @@ Key Idea: Algorithms improve automatically through experience.
 
 Key Idea: Mimics how the human brain processes information, especially effective for large, complex datasets.
 
-Examples: Image recognition, speech‑to‑text, natural language processing.
+**Examples:** Image recognition, speech‑to‑text, natural language processing.
 
 
 
