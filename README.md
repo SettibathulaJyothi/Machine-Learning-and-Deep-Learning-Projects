@@ -14,8 +14,8 @@ Machine Learning is a branch of Artificial Intelligence that enables computers t
 
 Key Idea: Algorithms improve automatically through experience.
 
-Examples: Spam email detection, recommendation systems, fraud detection.
-Deep Learning is a specialized subset of ML that uses artificial neural networks with multiple layers — hence “deep.”
+**Examples:** Spam email detection, recommendation systems, fraud detection.
+**Deep Learning** is a specialized subset of ML that uses artificial neural networks with multiple layers — hence “deep.”
 
 Key Idea: Mimics how the human brain processes information, especially effective for large, complex datasets.
 
