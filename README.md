@@ -3,9 +3,7 @@
 This repository showcases projects built using Machine Learning (ML) and Deep Learning (DL) techniques.
 
 ML provides the foundation for building models that learn patterns from data and make predictions.
-
 DL extends this capability with powerful neural networks that excel at handling complex tasks such as image recognition, natural language processing, and automation.
-
 Together, these approaches demonstrate how data‑driven intelligence can solve real‑world problems — from simple predictive analytics to advanced AI applications.
 
 **Machine Learning:**
